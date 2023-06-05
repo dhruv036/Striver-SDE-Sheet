@@ -56,5 +56,6 @@ int main() {
     }
     cout << endl;
   }
+  // g++ -std=c++11 to run
   return 0;
 }
